@@ -1,0 +1,20 @@
+package oneDayCampusLife;
+
+public class JadualHarian {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        System.out.println("6.50 am: Mandi dan solat Subuh");
+        System.out.println("7.00 am: Senaman pagi");
+        System.out.println("7.40 am: Kemas bilik ");
+        System.out.println("7.50 am: Buka Laptop");
+        System.out.println("8.00 am: Bersiap untuk kelas");
+        System.out.println("8.30 am: Kelas pertama");
+        System.out.println("10.00 am: Bagi adik makan");
+        System.out.println("10.20 am: Sarapan");
+        System.out.println("10.30 am: Kelas Programming");
+        System.out.println("10.40 am: Prof Azman bagi tugasan");
+        
+	}
+
+}
